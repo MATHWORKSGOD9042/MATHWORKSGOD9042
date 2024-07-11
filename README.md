@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MATHWORKSGOD9042&show_icons=true&locale=en" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
